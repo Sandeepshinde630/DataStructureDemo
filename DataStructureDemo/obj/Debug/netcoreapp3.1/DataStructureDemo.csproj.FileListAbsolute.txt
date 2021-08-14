@@ -1,0 +1,13 @@
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.exe
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.deps.json
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.runtimeconfig.json
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.runtimeconfig.dev.json
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.dll
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\bin\Debug\netcoreapp3.1\DataStructureDemo.pdb
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.csproj.AssemblyReference.cache
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.AssemblyInfo.cs
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.dll
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.pdb
+C:\Users\Sandeep\Desktop\CSharp\DataStructureDemo\DataStructureDemo\obj\Debug\netcoreapp3.1\DataStructureDemo.genruntimeconfig.cache
